@@ -1,0 +1,17 @@
+C:\CP3 Hardware\Hardware\Hardware\bin\Debug\net8.0-windows\Hardware.exe
+C:\CP3 Hardware\Hardware\Hardware\bin\Debug\net8.0-windows\Hardware.deps.json
+C:\CP3 Hardware\Hardware\Hardware\bin\Debug\net8.0-windows\Hardware.runtimeconfig.json
+C:\CP3 Hardware\Hardware\Hardware\bin\Debug\net8.0-windows\Hardware.dll
+C:\CP3 Hardware\Hardware\Hardware\bin\Debug\net8.0-windows\Hardware.pdb
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.Form1.resources
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.Properties.Resources.resources
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.csproj.GenerateResource.cache
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.GeneratedMSBuildEditorConfig.editorconfig
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.AssemblyInfoInputs.cache
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.AssemblyInfo.cs
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.csproj.CoreCompileInputs.cache
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.dll
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\refint\Hardware.dll
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.pdb
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\Hardware.genruntimeconfig.cache
+C:\CP3 Hardware\Hardware\Hardware\obj\Debug\net8.0-windows\ref\Hardware.dll
